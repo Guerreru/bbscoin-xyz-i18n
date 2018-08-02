@@ -104,4 +104,6 @@ $lang = array_merge($lang, [
 'cli_for_ubuntu' => 'Ubuntu 命令行钱包',
 'cli_for_centos' => 'CentOS 命令行钱包',
 'cli_for_macos' => 'macOS 命令行钱包',
+'whitepaper_url' => 'https://bbscoin.xyz/docs/zh/Whitepaper_v1.0.0.pdf',
+'firstcryptobank' => 'FirstCryptoBank',
 ]);
