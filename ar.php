@@ -3,7 +3,7 @@ if(!defined('IN_HOME')) exit;
 
 $lang = array_merge($lang, [
 'html_lang' => 'ar',
-'html_dir' => 'ltr', //left to right
+'html_dir' => 'rtl', //left to right
 'description' => 'هو عبارة عن عملة مشفرة لتبادل الاعتمادات الافتراضية من المنتديات والمواقع BBSCoin [BBS]',
 'keywords' => 'BBSCoin, عملة، عملة معماة',
 'twitter_title' => 'BBSCoin | موقع الكتروني',
