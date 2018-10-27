@@ -106,4 +106,8 @@ $lang = array_merge($lang, [
 'cli_for_macos' => 'CLI for macOS',
 'whitepaper_url' => 'https://bbscoin.xyz/docs/ko/Whitepaper_v1.0.0.pdf',
 'firstcryptobank' => 'FirstCryptoBank',
+'kompler.exchange' => 'Kompler.exchange',
+'community' => '커뮤니티',
+'official_forum' => '공식 포럼',
+'korea_community' => '한국 커뮤니티',
 ]);
