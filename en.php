@@ -97,6 +97,7 @@ $lang = array_merge($lang, [
 'for_smf' => 'For SMF',
 'for_discuz' => 'For Discuz',
 'for_phpwind' => 'For PHPWind',
+'for_gnubb' => 'For GNUBoard',
 'desktop_wallet_x64' => 'Desktop Wallet x64',
 'command_line_x64' => 'Command Line x64',
 'wallet_for_ubuntu' => 'Desktop Wallet for Ubuntu',
