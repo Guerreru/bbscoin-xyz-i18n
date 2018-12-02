@@ -113,4 +113,5 @@ $lang = array_merge($lang, [
 'korea_community' => 'Korea Community',
 'medium' => 'Medium',
 'bbscoin_medium' => 'BBSCoin Medium',
+'remote_node_title' => 'Remote Node',
 ]);

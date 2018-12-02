@@ -110,4 +110,7 @@ $lang = array_merge($lang, [
 'community' => '社区',
 'official_forum' => '官方论坛',
 'korea_community' => '韩国社区',
+'medium' => 'Medium',
+'bbscoin_medium' => 'BBSCoin Medium',
+'remote_node_title' => '远程节点',
 ]);
