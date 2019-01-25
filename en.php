@@ -114,4 +114,5 @@ $lang = array_merge($lang, [
 'medium' => 'Medium',
 'bbscoin_medium' => 'BBSCoin Medium',
 'remote_node_title' => 'Remote Node',
+'eeofun' => 'eeo.fun',
 ]);
